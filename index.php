@@ -10,6 +10,7 @@ echo "test";
 
 function second(){
 echo "test";
+echo "test2";
 }
 
 ?>
